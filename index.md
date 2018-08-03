@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Boutique creative digital agency
+# Boutique data-first digital agency
 
 ## What we do
 
