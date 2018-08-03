@@ -6,9 +6,9 @@ layout: default
 
 ## What we do:
 
-1. [Full stack web applications](#ios)
-2. [iOS and Android Apps](#ios)
-3. [Digital marketing, web design and development](#ios)
+1. [Full stack web applications](#scalable-web-application-development)
+2. [iOS and Android Apps](#ios-and-android-applications)
+3. [Digital marketing, web design and development](#digital-marketing-strategy-web-design--development)
 
 ## Scalable Web Application Development
 
