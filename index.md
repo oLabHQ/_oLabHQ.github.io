@@ -4,13 +4,25 @@ layout: default
 
 # Boutique creative digital agency
 
-## What we do:
+## Our Team
 
-1. [Full stack web applications](#scalable-web-application-development)
+### Joined 2017
+
+1. Bappy - Marketing & Business Consulting
+2. Max - Design
+3. Luca - Digital Marketing
+4. Bhartendu - Engineering
+
+### Joined 2018
+1. Eric - Engineering
+
+# How we can help you:
+
+1. [Full stack web applications](#scalable-full-stack-web-applications)
 2. [iOS and Android Apps](#ios-and-android-applications)
 3. [Digital marketing, web design and development](#digital-marketing-strategy-web-design--development)
 
-## Scalable Web Application Development
+# Scalable Full Stack Web Applications
 
 We build full stack web applications:
 
@@ -18,14 +30,14 @@ We build full stack web applications:
 
 Built with Postgres, Django, GraphQL, Vue.js. [Source Code](https://github.com/oLabHQ/role_model/blob/master/common/models.py)
 
-## iOS and Android Applications
+# iOS and Android Applications
 
 We do iOS and Android App UX Design, Graphics Design, and development:
 
 ![App Design](assets/img/App design.png)
 Design built with Sketch.
 
-## Digital Marketing Strategy, Web design & development
+# Digital Marketing Strategy, Web design & development
 
 We integrate digital marketing strategy, design and development to scale mid-tier businesses.
 
